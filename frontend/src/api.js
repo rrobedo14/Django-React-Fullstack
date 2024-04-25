@@ -2,7 +2,7 @@
 import axios from "axios";
 import { ACCESS_TOKEN } from "./constants";
 
-const apiUrl = '/choreo-apis/djangoreacttutorial/backend/rest-api-be2/v1.0'
+//const apiUrl = '/choreo-apis/djangoreacttutorial/backend/rest-api-be2/v1.0'
 
 const api = axios.create({
   // Loading enviorment variable
